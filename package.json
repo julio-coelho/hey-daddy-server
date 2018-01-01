@@ -1,0 +1,19 @@
+{
+  "name": "hey-daddy-server",
+  "version": "1.0.0",
+  "description": "hey-daddy ... I'll gonna help you !",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julio-coelho/hey-daddy-server.git"
+  },
+  "author": "Julio Coelho <juliocoelho@icloud.com> (http://juliocoelho.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julio-coelho/hey-daddy-server/issues"
+  },
+  "homepage": "https://github.com/julio-coelho/hey-daddy-server#readme"
+}
